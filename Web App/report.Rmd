@@ -1,0 +1,9 @@
+---
+  title: "Plot Report"
+output: html_document
+params:
+  plot: NULL
+---
+  
+  ```{r echo=FALSE}
+params$plot
